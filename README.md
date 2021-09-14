@@ -1,7 +1,7 @@
 # Mapping_Earthquakes_1
 
 ## Goal
-The goal was to show the earthquake data in relation to the tectonic plates’ location on the earth. Earthquakes with a magnitue greater than 4.5
+The goal was to show the earthquake data in relation to the tectonic plates’ location on the earth. Earthquakes with a magnitue greater than 4.5 are showns.
 
 ### Results
 
